@@ -51,3 +51,8 @@
    ![prak4](images/04_02_1.png)
    ![prak4](images/04_02_2.png)
    ![prak4](images/04_02_3.png)
+
+## Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
+### Langkah 1: Cupertino Button dan Loading Bar
+   ![cupertino_button](images/05_01.png)
+   ![cupertino_button](images/05_01.gif)
