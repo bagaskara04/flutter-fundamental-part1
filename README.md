@@ -42,3 +42,12 @@
 ### Langkah 12: Menambahkan folder images dan mengubah Readme.md dengan hasil menampilkan teks nama lengkap
    ![prak3](images/03_12_01.png)
    ![prak3](images/03_12_02.png)
+
+## Praktikum 4: Menerapkan Widget Dasar
+### Langkah 1: Text Widget
+   ![prak4](images/04_01.png)
+
+### Langkah 2: Image Widget
+   ![prak4](images/04_02_1.png)
+   ![prak4](images/04_02_2.png)
+   ![prak4](images/04_02_3.png)
