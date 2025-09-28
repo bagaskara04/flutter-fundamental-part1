@@ -23,9 +23,22 @@
 ### Langkah 3: Menyalakan Wireless Debugging
    <img src="images/wireless_debug.png" alt="wireless_debug" width="1400"/>
 
-### Langkah 4: Melakukan pair and connects sesuai dengan pairing code dan IP addres - port
-   <img src="images/ip_and_pair.jpg" alt="pair_to_devices" width="1400"/>
+### Langkah 4: Melakukan pair and connects sesuai dengan pairing code dan IP addres - port diatas
    <img src="images/pair_to_device.png" alt="pair_connect_to_devices" width="1400"/>
 
-### Langkah 5: Scan QR Code dengan perangkat Android
+### Langkah 5: Hasil menjalankan flutter di Handphone
    <img src="images/hasil.png" alt="hasil" width="1400"/>
+
+## Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
+### Langkah 1-10: Membuat dan Remote Repository ke GitHub
+   ![prak3](images/03_01.png)
+   ![prak3](images/03_02.png)
+   ![prak3](images/03_03.png)
+   ![prak3](images/03_04.png)
+
+### Langkah 11: Menjalankan project hello_world via Chrome
+   ![prak3](images/03_11.png)
+
+### Langkah 12: Menambahkan folder images dan mengubah Readme.md dengan hasil menampilkan teks nama lengkap
+   ![prak3](images/03_12_01.png)
+   ![prak3](images/03_12_02.png)
