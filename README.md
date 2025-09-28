@@ -56,3 +56,23 @@
 ### Langkah 1: Cupertino Button dan Loading Bar
    ![cupertino_button](images/05_01.png)
    ![cupertino_button](images/05_01.gif)
+
+### Langkah 2: Floating Action Button (FAB)
+   ![floating_action_button](images/05_02.png)
+   ![floating_action_button](images/05_02.jpg)
+
+### Langkah 3: Scaffold Widget
+   ![scaffold_widget](images/05_03.png)
+   ![scaffold_widget](images/05_03.gif)
+
+### Langkah 4: Dialog Widget
+   ![dialog_widget](images/05_04.png)
+   ![dialog_widget](images/05_04.gif)
+
+### Langkah 5: Input dan Selection Widget
+   ![input_selection_widget](images/05_05.png)
+   ![input_selection_widget](images/05_05.gif)
+
+### Langkah 6: Date and Time Pickers
+   ![date_time_picker](images/05_06.png)
+   ![date_time_picker](images/05_06.gif)
